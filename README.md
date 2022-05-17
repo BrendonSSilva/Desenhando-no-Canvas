@@ -8,7 +8,7 @@ Imagens do projeto<br>
 
 (Link no final)<br>
 
-<img src='img1.png'><br>
-<img src='img2.png'>
+<img src='images/img1.png'><br>
+<img src='images/img2.png'>
 
 Link: 
